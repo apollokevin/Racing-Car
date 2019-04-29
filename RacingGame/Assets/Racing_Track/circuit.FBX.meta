@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 79cd329924f38604a92b5e755adb469a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cement
+    100002: //RootNode
+    100004: Estrades
+    100006: fence
+    100008: grass
+    100010: road
+    100012: roof
+    100014: shaders
+    100016: Windows
+    400000: cement
+    400002: //RootNode
+    400004: Estrades
+    400006: fence
+    400008: grass
+    400010: road
+    400012: roof
+    400014: shaders
+    400016: Windows
+    2100000: windows
+    2100002: estrades
+    2100004: cement
+    2100006: grass
+    2100008: fence
+    2100010: black
+    2100012: road
+    2300000: cement
+    2300002: Estrades
+    2300004: fence
+    2300006: grass
+    2300008: road
+    2300010: roof
+    2300012: shaders
+    2300014: Windows
+    3300000: cement
+    3300002: Estrades
+    3300004: fence
+    3300006: grass
+    3300008: road
+    3300010: roof
+    3300012: shaders
+    3300014: Windows
+    4300000: Windows
+    4300002: Estrades
+    4300004: cement
+    4300006: grass
+    4300008: fence
+    4300010: roof
+    4300012: shaders
+    4300014: road
+    6400000: cement
+    6400002: Estrades
+    6400004: fence
+    6400006: grass
+    6400008: road
+    6400010: roof
+    6400012: shaders
+    6400014: Windows
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 25088c04d489e99438a9a987686fef94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement
+    second: {fileID: 2100000, guid: e854423d9e185d84c94bf3bad8b15bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: estrades
+    second: {fileID: 2100000, guid: ec8117a490d5084468a39405a15cc0de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fence
+    second: {fileID: 2100000, guid: e949f7838677e5b44bed23d40db41989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 083982ea02c6cee49b21dd8f4c386e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: road
+    second: {fileID: 2100000, guid: 98a26d98e47aeb8459055018602767a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows
+    second: {fileID: 2100000, guid: 943290477dc66f24cb24d7f3612a317e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
